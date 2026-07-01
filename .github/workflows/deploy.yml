@@ -1,3 +1,9 @@
+jobs:
+  deploy:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
 name: Deploy MkDocs to GitHub Pages
 
 on:
