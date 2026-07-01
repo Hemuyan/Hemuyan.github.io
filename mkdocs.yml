@@ -1,0 +1,6 @@
+site_name: 我的个人博客
+nav:
+  - 首页: index.md
+  - Python入门笔记: posts/python.md
+theme:
+  name: readthedocs
